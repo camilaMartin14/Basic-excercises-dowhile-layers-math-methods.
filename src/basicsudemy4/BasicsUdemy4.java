@@ -60,6 +60,9 @@ public class BasicsUdemy4 {
         }
     
         System.out.println("-----------------------------------------------------");   
+    
+        
+        
     /*
     Ask for 3 numbers trough the console and solve a second grade equation.
     */
@@ -96,6 +99,9 @@ public class BasicsUdemy4 {
         }
     
     System.out.println("-----------------------------------------------------");   
+    
+        
+        
     /*
     Ask for a number trough the console and show if it is a perfect number.
     A prfect number is a natural wich is equal to the addition of
